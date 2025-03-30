@@ -1,4 +1,4 @@
-##🚀 Tecnologias e Ferramentas
+🚀 Tecnologias e Ferramentas
 
     
 <p align="left">
