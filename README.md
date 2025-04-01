@@ -1,6 +1,4 @@
-👋 Hello, I'm Olívio Barreto 
-🚀 Learning Programming | Passionate About Technology 
-🎯 Focused on Creating Efficient and Scalable Solutions
+##👋 Hello, I'm Olívio Barreto
 
 🚀 Tecnologias e Ferramentas
 
